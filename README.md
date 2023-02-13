@@ -12,3 +12,7 @@ Viewing the matrices, we get:
 > View(A)
 > View(B)
 ```
+![Matrix A](https://github.com/venatisriya/assignment5/blob/main/mat_A.png)
+![Matrix B](https://github.com/venatisriya/assignment5/blob/main/mat_B.png)
+
+
