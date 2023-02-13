@@ -18,7 +18,7 @@ Viewing the matrices, we get:
 
 ![Part of Matrix B](https://github.com/venatisriya/assignment5/blob/main/mat_B.png)
 
-The matrices are also uploaded as .csv files in my repository here : [Matrix A](https://github.com/venatisriya/assignment5/blob/main/MatA.csv), [Matrix B](https://github.com/venatisriya/assignment5/blob/main/MatB.csv)
+The matrices are also uploaded as .csv files in my repository here : [Matrix A](https://github.com/venatisriya/assignment5/blob/main/MatA.csv), [Matrix B](https://github.com/venatisriya/assignment5/blob/main/MatB.csv).
 
 Matrix A is of the shape (10x10) and matrix B is of the shape (10x100)
 I used the following code to find the inverse for the two matrices. 
@@ -54,7 +54,7 @@ This produced the following inverse matrices:
 
 ![Part of inverse of Matrix B](https://github.com/venatisriya/assignment5/blob/main/Inv_B_pic.png)
 
-The .csv files for the inverse matrices are also uploaded to my repository: [Inverse of matrix A](https://github.com/venatisriya/assignment5/blob/main/Inv_A.csv), [Inverse of matrix B](https://github.com/venatisriya/assignment5/blob/main/Inv_B.csv)
+The .csv files for the inverse matrices are also uploaded to my repository: [Inverse of matrix A](https://github.com/venatisriya/assignment5/blob/main/Inv_A.csv), [Inverse of matrix B](https://github.com/venatisriya/assignment5/blob/main/Inv_B.csv).
 I find that the generalized inverse provides an inverse matrix for each of the two given matrices. 
 
 I used the following code to find the determinant of the matrices and obtained the results as shown. 
